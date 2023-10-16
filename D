@@ -1,1 +1,5 @@
 Doc
+
+https://crosscloud.vmware.com/api/checkuseraccess?referer=/sites/default/files/associated-content/hol-2410-01-sdc_pdf_en.pdf
+
+https://github.com/drminnaar/guides/blob/master/docker-guide/2-getting-started.md
