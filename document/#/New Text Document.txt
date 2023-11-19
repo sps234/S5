@@ -1,0 +1,21 @@
+create group , user and provide with the permission of global access.
+
+
+
+To create a group, user, and provide with the permission of global access in VMware Virtualization 101, follow these steps:
+
+Log in to the vSphere Client with administrative privileges.
+Click Home, then Administration, and then Access Control.
+On the Users and Groups tab, click Add to create a new user group.
+Enter a name for the group and click OK.
+Select the new group and click Edit to add users to the group.
+Click the Add button and select the users you want to add to the group.
+Click OK to save your changes.
+To create a new user, click Add on the Users and Groups tab.
+Enter a username and password for the user.
+Select the new user and click Edit to assign the user to the group you created in step 3.
+Click the Groups tab and select the group you want to assign the user to.
+Click OK to save your changes.
+To provide the user or group with global access, select the user or group and click Edit.
+Click the Roles tab and select the Global Administrator role.
+Click OK to save your changes.
