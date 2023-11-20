@@ -15,3 +15,48 @@ Steps for installation of cloud sim https://www.cloudsimtutorials.online/cloudsi
 Cloudsim library https://code.google.com/archive/p/cloudsim/downloads
 Eclipse IDE https://www.eclipse.org/ide/
 Common Math https://archive.apache.org/dist/commons/math/source/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cloudlet
+
+[10:19 am, 20/11/2023] +91 70818 67043: Cloudlet nahi sikhaya Gaya hai sayad
+[10:35 am, 20/11/2023] +91 81210 72003: It's in cloudsim
+[10:35 am, 20/11/2023] +91 81210 72003: And he's not going to do anything even if u say this
+[10:37 am, 20/11/2023] +91 84299 19407: from where to study it then ?
+[10:38 am, 20/11/2023] +91 70603 49582: You tube me dekh lo
+[10:38 am, 20/11/2023] +91 84299 19407: Youtube me toh usne sirf install aur run krne ka sikhaya tha
+[10:38 am, 20/11/2023] +91 84299 19407: jo video bheji thi usne
+[10:40 am, 20/11/2023] +91 81210 72003: U have to create new objects of vm and cloudlet only, that's also copy paste coz in example 1 they already made 1 object
+[11:03 am, 20/11/2023] +91 84299 19407: thanks.
+[11:03 am, 20/11/2023] +91 84299 19407: The question is from example 2 and 3 tho
+[11:04 am, 20/11/2023] +91 81210 72003: U can do everything in example 1 only tho
+[11:04 am, 20/11/2023] +91 81210 72003: I used example 6 in my etp coz there were functions to create n number of vms and cloud lets 😂
+[11:10 am, 20/11/2023] +91 84299 19407: For changing time we just have chang ethe mips value here, right? Vm vm2 = new Vm(vmid, brokerId, mips * 2, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared());
+[11:12 am, 20/11/2023] +91 81210 72003: Ya also try to keep mips low
+[11:12 am, 20/11/2023] +91 81210 72003: Sometimes vms don't run if mips is very high and there r many vms
+[11:13 am, 20/11/2023] +91 81210 72003: If u want that to work then add more hosts in data center
+[11:15 am, 20/11/2023] +91 84299 19407: ok, thnks!
