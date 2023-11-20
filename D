@@ -7,6 +7,9 @@ https://github.com/drminnaar/guides/blob/master/docker-guide/2-getting-started.m
 cloudsim
 https://www.youtube.com/playlist?list=PLaHEL4SWZOA1UG0Sj09ToEkARWJx_IBw1
 
+files 
+https://drive.google.com/file/d/1p_mEGiTeCCTv3l83cKPKY-h3PZh7DfhD/view
+
 
 Steps for installation of cloud sim https://www.cloudsimtutorials.online/cloudsim-setup-using-eclipse/
 Cloudsim library https://code.google.com/archive/p/cloudsim/downloads
